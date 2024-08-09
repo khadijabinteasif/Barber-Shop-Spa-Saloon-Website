@@ -1,1 +1,2 @@
 # Barber-Shop-Spa-Saloon-Website
+Project Highlights:  Front-End: Crafted with HTML, CSS, and Bootstrap for a responsive design and dynamic elements powered by JavaScript. Back-End: PHP handles server-side scripting, with MySQL for managing appointments and blog content. Design: Aesthetic appeal meets functional clarity with a dark and gold color scheme, professional typography, and high-quality imagery. Features: Explore services, check pricing, read blog posts, and easily contact the shop through an intuitive interface.
