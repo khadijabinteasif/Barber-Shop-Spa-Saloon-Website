@@ -1,0 +1,151 @@
+.bg1{background: url(img/jpg/bg2.jpg);
+background-size: cover;
+background-attachment: fixed;
+height:;
+color:#FFF1DE;
+}
+
+.bg2{
+
+background:rgb(0,0,0,0.5);
+}
+
+.sb1 nav{background:rgba(0,0,0,0.4);
+}
+
+.t1{
+font-family:Abel;
+font-weight: lighter;
+font-size: 22px;
+letter-spacing:2px;
+}
+
+.t2{
+
+font-family:verdana;
+font-weight:;
+font-size: 3em;
+letter-spacing:;
+
+}
+.p3{color: white;
+background:rgb(0,0,0);
+padding-top:50px;
+padding-bottom: 30px;
+}
+.p4 i{
+font-size: 2em;
+padding:0px 0px;
+margin-left:px;
+}
+
+.p4{
+background: rgb(206,156,107);
+margin-top:80px;
+padding:20px;
+}
+
+.p5{background:rgb(0,0,0,0.5);
+
+}
+.p6{background:rgb(27,27,27);font-family:abel;}
+.p7{font-size: 3em;color:white;}
+.p8{color:gray;font-size:18px;}
+.p9{background:rgb(0,0,0);font-family:abel;}
+.p10{font-size:3em;}
+.p11{color:gray;font-size: 20px;}
+.pp{font-size:2em;color:white;}
+.pp{font-size:2em;color:white;}
+.sub{font-size:20px;color:gray;line-height:;}
+.p12{background:rgb(27,27,27);font-family:abel;}
+.img1{background:url(img/jpg/person1.jpg);background-size:cover;height:vh;width: 100%;background-position: center;}
+.img2{background:url(img/jpg/person2.jpg);background-size:cover;height:vh;width: 100%;background-position: center;}
+.img3{background:url(img/jpg/person3.jpg);background-size:cover;height:vh;width: 100%;background-position: center;}
+.img4{background:url(img/jpg/person4.jpg);background-size:cover;height:vh;width: 100%;background-position: center;}
+.img5{background:url(img/jpg/person5.jpg);background-size:cover;height:vh;width: 100%;background-position: center;}
+.img6{background:url(img/jpg/person6.jpg);background-size:cover;height:vh;width: 100%;background-position: center;}
+.bgg{background: black;padding:10px 0px 0px 0px;}
+.gap{color: rgb(206,156,107);}
+.h3{color: rgb(206,156,107);font-size: 20px !important; padding-left: 10px;}
+.h2{color:#C2C2C2;}
+.h6{color: #D9D9D9;}
+.bg15{background: url(img/jpg/bg15.jpg);background-size: cover;background-attachment: fixed;}
+.h1{font-size: 3em !important;color:rgb(206,156,107);font-weight: bold !important;}
+.cards{border:1px solid rgb(206,156,107);border-radius:5px;}
+.cards img{border-bottom:1px solid rgb(206,156,107);}
+.cards h4 a{color:rgb(206,156,107);font-size:22px !important;}
+.cards p{color:#A1A1A1;font-size:px !important;}
+.cards span{color:#E9E9E9;font-size:19px !important;}
+.p16{background: black;}
+.gallery1{background: url(img/jpg/gal1.jpg);background-size:cover;height:50vh;}
+.gallery2{background: url(img/jpg/gal2.jpg);background-size:cover;height:50vh;}
+.gallery3{background: url(img/jpg/gal3.jpg);background-size:cover;height:50vh;}
+.gallery4{background: url(img/jpg/gal4.jpg);background-size:cover;height:50vh;}
+
+.p13{background: url(img/jpg/bg1.jpg);background-attachment: fixed;background-size: cover;}
+.p14{background: rgba(0,0,0,0.8);background-size: 100%;color: #B1B1B1;}
+.blogg img{width:100%;}
+.blogg a{color:#E8E8E8;}
+.bgblack{background:rgb(0,0,0);
+}
+#in1{
+background:rgb(0,0,0);
+font-family:abel;
+font-size:20px;
+color:gray;width:45%;
+border-top: 0px;
+border-left: 0px;
+border-right: 0px;
+border-bottom: 1px solid;
+padding: 10px;
+}
+
+#in2{
+background:rgb(0,0,0);
+font-family:abel;
+font-size:20px;
+color:gray;width:25%;
+border-top: 0px;
+border-left: 0px;
+border-right: 0px;
+border-bottom: 1px solid;
+padding: 5px;
+}
+.in3{
+background:rgb(0,0,0);
+font-family:abel;
+font-size:20px;
+color:gray;width:100%;
+border-top: 0px;
+border-left: 0px;
+border-right: 0px;
+border-bottom: 1px solid;
+padding: 10px ;height:50px
+}
+a.effect {color: gray ;}
+a.effect:hover, a.effect:active {
+color: rgb(206,156,107)!important;
+}
+button:hover{
+background: rgb(0,0,0,0.1) !important;
+border:1px solid rgb(206,156,107);
+transition: 0.5;
+}
+
+/*about page*/
+/*about page*/
+
+.bgabout{background:url(img/jpg/bg3.jpg);
+	background-size: cover;width:100%;height:100vh;
+	background-position: center;}
+
+	/*service*/
+	/*service*/
+img:hover{border:1px solid rgb(206,156,107);}
+.rotate{transition: 0.5s;}
+.rotate div{transform: rotate(0deg)!important;}
+.rotate img:hover{
+transform: rotate(45deg);
+transition: 0.5s;background: rgb(206,156,107);
+color:black;
+}
